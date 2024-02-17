@@ -85,6 +85,18 @@ const Hero = () => {
                 <h4 className="text-2xl">Namrata</h4>
             </Link>
           </div>
+          <div className="text-center">
+            <Link to="https://www.instagram.com/aditya.singhhhhh?utm_source=qr&igsh=MTNsYzAxenE1NnV3ZA=">
+              <div className="flex justify-center">
+                <img
+                  width={50}
+                  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+                  alt=""
+                />
+              </div>
+                <h4 className="text-2xl">Aditya</h4>
+            </Link>
+          </div>
         </div>
       </div>
     </div>
