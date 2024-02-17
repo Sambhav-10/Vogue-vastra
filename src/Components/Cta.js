@@ -26,7 +26,7 @@ const Cta = () => {
            </div>
           </div>
         </div>
-        <div className="my-5">
+        <div className="sm:my-5 md:my-0">
           <div className="w-full">
             <div className="flex justify-center relative text-center">
 
