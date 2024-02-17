@@ -3,7 +3,7 @@ import React from "react";
 const Occasion = () => {
   return (
     <div className="my-10 ">
-      <h1 className="text-center text-4xl font-bold">Our Market</h1>
+      <h1 className="text-center text-4xl font-bold">Our Market </h1>
       <div className="flex justify-center gap-7 wrap-scroll">
        
         <div className="">
